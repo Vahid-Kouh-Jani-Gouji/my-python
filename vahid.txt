@@ -1,0 +1,1 @@
+['i', 'am', 'vahid', 'i', 'have', '2', 'books', 'i', 'am', 'ready']
